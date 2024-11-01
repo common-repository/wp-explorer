@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Explorer 0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-05-05 16:48+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Chris T <webmaster@t3-design.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-explorer-options.php:18
+msgid "Options saved."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν."
+
+#: wp-explorer-options.php:23
+msgid "Template: Main"
+msgstr "Εμφάνηση: Βασική"
+
+#: wp-explorer-options.php:24
+msgid "Template: Folders Table"
+msgstr "Εμφάνηση: Πίνακας Φακέλων"
+
+#: wp-explorer-options.php:25
+msgid "Template: Folders Bit"
+msgstr "Εμφάνηση: Φάκελος"
+
+#: wp-explorer-options.php:26
+msgid "Template: Files Table"
+msgstr "Εμφάνηση: Πίνακας Αρχείων"
+
+#: wp-explorer-options.php:27
+msgid "Template: Files Bit"
+msgstr "Εμφάνηση: Αρχείο"
+
+#: wp-explorer-options.php:28
+msgid "Template: Error"
+msgstr "Εμφάνηση: Λάθος"
+
+#: wp-explorer-options.php:29
+msgid "Exclude Files From Listing"
+msgstr "Αποκλεισμός αρχείων απο την λίστα"
+
+#: wp-explorer-options.php:30
+msgid "Exclude Folders From Listing"
+msgstr "Αποκλεισμός φακέλων απο την λίστα"
+
+#: wp-explorer-options.php:31
+msgid "Exclude Extensions From Listing"
+msgstr "Αποκλεισμός αρχείων απο την λίστα με κατάληξη"
+
+#: wp-explorer-options.php:32
+msgid "Enable htaccess anti-leech protection"
+msgstr "Ενεργοποιήση htaccess anti-leech προστασίας"
+
+#: wp-explorer-options.php:33
+msgid "Enable Pretty Links"
+msgstr "Ενεργοποίηση Όμορφων Διευθύνσεων"
+
+#: wp-explorer-options.php:37
+msgid "WP Explorer Options"
+msgstr "WP Explorer Ρυθμίσεις"
+
+#: wp-explorer-options.php:54
+msgid "Revert Template"
+msgstr "Επαναφορά Εμφάνισης"
+
+#: wp-explorer-options.php:58
+msgid "Separate with commas"
+msgstr "Διαχωρίστε με κόμματα"
+
+#: wp-explorer-options.php:60
+msgid "Yes"
+msgstr "Ναι"
+
+#: wp-explorer-options.php:61
+msgid "No"
+msgstr "Όχι"
+
+#: wp-explorer-options.php:69
+msgid "Save Changes"
+msgstr "Αποθήκευσε Αλλαγές"
+
+#: wp-explorer.php:67
+msgid "Root"
+msgstr "Αφετηρία"
+
+#: wp-explorer.php:117
+#: wp-explorer.php:126
+msgid "Leech protection: ON"
+msgstr "Leech προστασία: Ενεργοποιήμενη"
+
+#: wp-explorer.php:121
+msgid "Leech protection: Failed"
+msgstr "Leech προστασία: Απέτυχε"
+
+#: wp-explorer.php:132
+msgid "Leech protection: OFF"
+msgstr "Leech προστασία: Απενεργοποιήμενη"
+
+#: wp-explorer.php:158
+msgid "You are here:"
+msgstr "Βρίσκεστε εδώ:"
+
+#: wp-explorer.php:206
+msgid "Name"
+msgstr "Όνομα"
+
+#: wp-explorer.php:207
+msgid "Last Modification Date"
+msgstr "Ημερομηνία Τελευταίας Τροποποίησης"
+
+#: wp-explorer.php:215
+msgid "Size"
+msgstr "Μέγεθος"
+
+#: wp-explorer.php:216
+msgid "Version"
+msgstr "'Εκδοση"
+
+#: wp-explorer.php:219
+#, php-format
+msgid "There are %1$s folders and %2$s files here."
+msgstr "Υπάρχουν %1$s φάκελοι και %2$s αρχεία εδώ."
+
+#: wp-explorer.php:224
+msgid "ERROR: I have no right to access this folder or this folder doesn't exist."
+msgstr "ΛΑΘΟΣ: Δεν έχω πρόσβαση σε αύτον το φάκελο ή ο φάκελος δεν υπάρχει."
+
